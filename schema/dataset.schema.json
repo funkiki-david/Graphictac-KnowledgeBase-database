@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/funkiki-david/Graphictac-KnowlegeBase-database/blob/main/schema/dataset.schema.json",
+  "$id": "https://github.com/funkiki-david/Graphictac-KnowledgeBase-database/blob/main/schema/dataset.schema.json",
   "title": "Graphictac Knowledge Base Database schemas",
   "description": "Row schemas for the public Graphictac research datasets.",
   "$defs": {

@@ -1,0 +1,15 @@
+source_id,source_type,brand_or_topic,content_cluster,source_url,date_checked,claim_category,phase_1_use
+SRC-M-001,official_product,3M,Vehicle Wrap Media,https://www.3m.com/3M/en_US/p/d/v101243073/,2026-05-25,comparison_context,GL-P-001 and GL-V-001
+SRC-M-002,official_product,Avery Dennison,Vehicle Wrap Media,https://graphics-test.averydennison.com/en/home/graphics-products/digitally-printable-films/supercast-digital-color-graphics/mpi-1105-opaque-series-films.html,2026-05-25,comparison_context,GL-P-002 and GL-V-002
+SRC-M-003,official_product,ORAFOL / ORAJET,Flat Signage Vinyl,https://www.orafol.com/en/americas/products/orajet-3951ra,2026-05-25,comparison_context,GL-P-003 and GL-A-008
+SRC-M-004,official_product,General Formulations,Vehicle Wrap Media,https://www.generalformulations.com/product/gf-830-automark-cast/,2026-05-25,comparison_context,GL-P-004 and GL-A-008
+SRC-M-005,official_product,Arlon,Vehicle Wrap Media,https://www.arlon.com/assets/docs/SLX_Cast_Wrap_PIB_-_ENG.pdf,2026-05-25,comparison_context,GL-P-005 reserve
+SRC-M-006,official_product,Mactac,High-Tack Media,https://www.mactac.com/Product/RB528HW54L75,2026-05-25,comparison_context,GL-P-006 reserve
+SRC-M-007,brand_product,Briteline / Grimco,Flat Signage Vinyl,https://www.briteline.com/wrapcast-vinyl-film.html,2026-05-25,comparison_context,GL-P-007 reserve
+SRC-M-008,official_product,Siser,Printable HTV,https://www.siserna.com/colorprint-easy/,2026-05-25,comparison_context,GL-P-008 reserve
+SRC-P-001,official_printer,Roland,Printer Workflow Guides,https://www.rolanddga.com/en/products/printers/versastudio-bn2,2026-05-25,workflow_context,GL-A-001 and GL-A-007
+SRC-P-002,official_printer,Mimaki,Printer Workflow Guides,https://mimaki.com/product/inkjet/print-cut/ucjv300-series/1000/,2026-05-25,workflow_context,GL-A-002
+SRC-P-003,official_printer,HP Latex,Printer Workflow Guides,https://www.hp.com/us-en/printers/large-format/applications/stickers-and-decals.html,2026-05-25,workflow_context,GL-A-003 and GL-A-007
+SRC-P-004,official_printer,Epson,Printer Workflow Guides,https://epson.com/p/SCS80600PE,2026-05-25,workflow_context,GL-A-004
+SRC-P-005,official_printer,Mutoh,Printer Workflow Guides,https://www.mutoh-au.com/xpertjet-1641sr-pro-eco-solvent-printer,2026-05-25,workflow_context,GL-A-005
+SRC-P-006,official_printer,Canon,Printer Workflow Guides,https://www.usa.canon.com/newsroom/2024/20240528-lfp,2026-05-25,workflow_context,GL-A-006

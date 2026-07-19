@@ -5,6 +5,8 @@
   "license": "CC-BY-4.0",
   "publisher": "MaxDecals USA",
   "canonical_url": "https://maxdecals.us/pages/knowledge-hub",
+  "doi": "10.5281/zenodo.21445361",
+  "zenodo_record": "https://zenodo.org/records/21445361",
   "repository": "https://github.com/funkiki-david/MaxDecals-Knowledge-Base-Database",
   "dataset_mirror": "https://huggingface.co/datasets/funkikitech/MaxDecals-Knowledge-Base-Database",
   "datasets": [

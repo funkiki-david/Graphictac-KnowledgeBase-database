@@ -1,8 +1,12 @@
-# Graphictac Knowledge Base Database
+# MaxDecals Knowledge Base Database
 
 An open, source-linked research dataset for printable media, printer workflows, and professional print-and-cut production.
 
-This repository is designed to be readable by people, search engines, AI assistants, and data tools. It publishes structured research snapshots behind the Graphictac and MAXDECALS knowledge-base program.
+This repository is the public, machine-readable data mirror for the [MaxDecals USA Knowledge Hub](https://maxdecals.us/pages/knowledge-hub). It is designed for people, search engines, AI assistants, and data tools.
+
+## Canonical knowledge hub
+
+The canonical human-readable resource is the [MaxDecals USA Knowledge Hub](https://maxdecals.us/pages/knowledge-hub). Visit the Knowledge Hub for practical guides, workflow explanations, application context, and updated educational content. Use this repository for structured CSV/JSONL data, schemas, methodology, version history, and citation.
 
 ## Dataset contents
 
@@ -44,10 +48,9 @@ The first public release is a dated snapshot. URLs, specifications, and product 
 
 See [`METHODOLOGY.md`](METHODOLOGY.md) for collection, normalization, claim-risk, and update rules. See [`DATA_DICTIONARY.md`](DATA_DICTIONARY.md) for field definitions.
 
-Related public resources:
+Canonical public resource:
 
-- [MAXDECALS Knowledge Hub](https://maxdecals.us/pages/knowledge-hub)
-- [Graphictac](https://graphictac.us/)
+- [MaxDecals USA Knowledge Hub](https://maxdecals.us/pages/knowledge-hub)
 
 ## License and trademarks
 
@@ -57,7 +60,7 @@ Dataset and documentation content is released under [Creative Commons Attributio
 
 Use the metadata in [`CITATION.cff`](CITATION.cff), or cite:
 
-> Graphictac. *Graphictac Knowledge Base Database*, version 0.1.0, 2026. https://github.com/funkiki-david/Graphictac-KnowledgeBase-database
+> MaxDecals USA. *MaxDecals Knowledge Base Database*, version 0.1.0, 2026. https://maxdecals.us/pages/knowledge-hub
 
 ## Version
 

@@ -2,6 +2,8 @@
 
 An open, source-linked research dataset for printable media, printer workflows, and professional print-and-cut production.
 
+Permanent DOI: [10.5281/zenodo.21445361](https://doi.org/10.5281/zenodo.21445361)
+
 This repository is the public, machine-readable data mirror for the [MaxDecals USA Knowledge Hub](https://maxdecals.us/pages/knowledge-hub). It is designed for people, search engines, AI assistants, and data tools.
 
 ## Canonical knowledge hub
@@ -51,6 +53,7 @@ See [`METHODOLOGY.md`](METHODOLOGY.md) for collection, normalization, claim-risk
 Canonical public resource:
 
 - [MaxDecals USA Knowledge Hub](https://maxdecals.us/pages/knowledge-hub)
+- [Zenodo archival record and permanent DOI](https://doi.org/10.5281/zenodo.21445361)
 
 ## License and trademarks
 
@@ -60,7 +63,7 @@ Dataset and documentation content is released under [Creative Commons Attributio
 
 Use the metadata in [`CITATION.cff`](CITATION.cff), or cite:
 
-> MaxDecals USA. *MaxDecals Knowledge Base Database*, version 0.1.0, 2026. https://maxdecals.us/pages/knowledge-hub
+> MaxDecals USA. (2026). *MaxDecals Knowledge Base Database* (Version 0.1.0) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.21445361
 
 ## Version
 
